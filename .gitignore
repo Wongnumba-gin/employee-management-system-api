@@ -1,0 +1,6 @@
+# Environment Variables
+.env
+.env.example
+
+# Dependencies Folder
+node_modules/
